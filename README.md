@@ -1,1 +1,1 @@
-React Node & Typescript 😊😊
+React, Node & Typescript 😊😊
