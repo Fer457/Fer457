@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fer457" alt="fer457" /></a> </p>
 
-- Currently improving and maintaining [Fhub - A simple social network](https://fhub-client.vercel.app)
-
-- 🌱 I’m always learning more **React, NextJs...**
-
-- 📫 My email: **fernandonevothernandez@gmail.com**
-
 <h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://codesandbox.com/fer457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fer457" height="30" width="40" /></a>
